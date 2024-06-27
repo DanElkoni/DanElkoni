@@ -1,7 +1,6 @@
 ## Hi, I’m @Fallvirus009
-I’m currently learning CSS, JS, HTML </br>
-I’m looking to collaborate on Python projects, game dev </br>
-How to reach me: danielbuisness0821@gmail.com by email </br>
+</br>
+Reach me at danielbuisness0821@gmail.com by email </br>
 
 <!---
 Fallvirus009/Fallvirus009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
