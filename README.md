@@ -1,6 +1,6 @@
 ## Hi, I’m @DanElkoni
 ### Skills
-Currently skilled in Python, Java, C#, MATLAB, Unity and more!</br>
+Skilled in Python, Java, C#, MATLAB, Unity and more!</br>
 <br/>
 Reach me at danielbuisness0821@gmail.com by email if you are interested in working for me</br>
 
